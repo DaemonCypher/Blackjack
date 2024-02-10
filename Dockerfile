@@ -8,4 +8,4 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Command to run the script
-CMD ["python", "./blackjack.py"]
+CMD ["python", "./Blackjack.py"]
