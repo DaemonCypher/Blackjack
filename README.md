@@ -1,4 +1,4 @@
-# CLI text game blackjac
+# CLI text game blackjack
 # Running the code on Docker
 ```
 docker build -t blackjack .
